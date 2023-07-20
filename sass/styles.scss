@@ -1,1 +1,4 @@
-@import '_color.scss', '_typography.scss', '_base.scss';
+@import 'base/base';
+@import 'theme/color';
+@import 'theme/typography';
+@import 'config/varibles';

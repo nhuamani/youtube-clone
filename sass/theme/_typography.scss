@@ -1,7 +1,9 @@
-::root {
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
+
+:root {
     // font
     --body-font: 'Roboto', sans-serif;
-    --body-font: 'icomoon';
+    --icon-font: 'icomoon';
 
     // text size
     --big-font-size: 1.25rem; // 18px
